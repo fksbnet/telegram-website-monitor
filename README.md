@@ -130,6 +130,7 @@ Telegram 告警适合网站运维场景，因为它通知快、适合移动端�
 ### 已发布教程
 
 * [网站打不开时应该先检查什么？](docs/website-down-checklist.md)
+* [SSL 证书过期会导致哪些问题？](docs/ssl-certificate-expired-impact.md)
 
 ### 后续更新方向
 
